@@ -3,7 +3,8 @@
 Cette application a été générée avec  [Create React App](https://github.com/facebook/create-react-app).
 
 # Projet de Session Automne 2023 - Klemn
-
+> [!NOTE]  
+> Cette fork n'ajoute pas de fonctionnalité pour l'instant. Son seul objectif est d'avoir une copie du repo Git sur mon compte dans le cas ou l'organisation GitHub de l'école serait supprimée.
 ***
 
 ## Projet
